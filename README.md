@@ -1,1 +1,0 @@
-# bqgam.github.io
