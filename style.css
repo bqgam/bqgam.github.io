@@ -363,7 +363,7 @@ section.donate {
   background: #D8D8D8;
   height: 850px;
   background: rgba(21,21,21,0.90);
-  background: url('_shots/donatemask2.png');
+  background: url('donatemask2.png');
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center 35%;
