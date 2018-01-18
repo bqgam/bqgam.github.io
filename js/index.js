@@ -1,7 +1,7 @@
 
 
-    CountDownTimer('12/31/2017 10:1 AM', 'countdown');
-    CountDownTimer('12/31/2017 10:1 AM', 'newcountdown');
+    CountDownTimer('12/31/2018 10:1 AM', 'countdown');
+    CountDownTimer('12/31/2018 10:1 AM', 'newcountdown');
 
     function CountDownTimer(dt, id)
     {
